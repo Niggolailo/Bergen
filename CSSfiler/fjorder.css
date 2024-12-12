@@ -1,0 +1,64 @@
+h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+h2{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+body{
+    background-color: antiquewhite;
+}
+
+p{
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: -3px;
+    width: 800px;
+}
+
+#tilbake{
+    background-color: crimson;
+    border: 10px solid crimson;
+    border-radius: 10px;
+    text-decoration: none;
+    color: black;
+}
+#bilder{
+    border: 10px solid pink;
+    border-radius: 10px;
+    width: 400px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.hoveringThing:hover{
+    color:white;
+}
+#logo{
+    display: flex;
+    justify-content: center;
+    width: 300px;
+    margin-bottom: -50px;
+}
+
+#tekst1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    width: 800px;
+    text-align: left;
+    margin-top: -350px;
+    margin-right: 420px;
+
+}
+
+.centerDiv{
+    display: flex;
+    justify-content: center;
+}
